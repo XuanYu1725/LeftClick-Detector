@@ -12,7 +12,7 @@ Players must hold a pickaxe to trigger leftclick detector, you can get a invisib
 
 `LeftClickHoldTimer` scoreboard records how long a player have been holding left mouse button
 
-## Examples:
+## Examples
 
 To check if a player just pressed left mouse button:
 
@@ -26,7 +26,7 @@ To check how long a player have been holding left mouse button:
 execute if score @s LeftClickHoldTimer matches 20.. run say I've been holding left mouse button for over 1 second!
 ```
 
-## Warnings:
+## Warnings
 
 Detector may somehow fail if players are on particular locations and orientations, because there's a gap of hitbox between two corals.
 
