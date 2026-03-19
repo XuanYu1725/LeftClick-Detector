@@ -1,0 +1,1 @@
+execute as @a[tag=ld.listening] at @s run function mouse:get_mouse_action

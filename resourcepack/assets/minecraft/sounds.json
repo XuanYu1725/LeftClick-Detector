@@ -1,0 +1,27 @@
+{
+    "block.stone.break":{
+        "replace": true,
+        "sounds": [
+        ]
+    },
+    "block.stone.fall":{
+        "replace": true,
+        "sounds": [
+        ]
+    },
+    "block.stone.hit":{
+        "replace": true,
+        "sounds": [
+        ]
+    },
+    "block.stone.place":{
+        "replace": true,
+        "sounds": [
+        ]
+    },
+    "block.stone.step":{
+        "replace": true,
+        "sounds": [
+        ]
+    }
+}
