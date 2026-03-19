@@ -32,4 +32,4 @@ Detector may somehow fail if players are on particular locations and orientation
 
 Auto cleaning for corals is not implemented.
 
-All elements rendered via rendertype_lines.fsh and sound event related to `stone` are removed.
+All elements rendered via `rendertype_lines.fsh` and sound event related to `stone` are removed.
